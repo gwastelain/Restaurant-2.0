@@ -29,7 +29,7 @@
                         <li class="nav-item" role="presentation"><a class="nav-link active" href="?page=menu">Menu</a>
                         </li>
                         <li class="nav-item" role="presentation"><a class="nav-link active"
-                                href="?page=photos01">Photos</a>
+                                href="?page=photos&n=1">Photos</a>
                         </li>
                         <li class="nav-item" role="presentation"><a class="nav-link active"
                                 href="?page=restaurant">Restaurant</a>

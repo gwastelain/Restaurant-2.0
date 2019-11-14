@@ -14,13 +14,13 @@
         <nav
             class="d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center justify-content-sm-center justify-content-md-center justify-content-lg-center">
             <ul class="pagination">
-                <li class="page-item"><a class="page-link" href="?page=photos01" aria-label="Previous"><span
+                <li class="page-item"><a class="page-link" href="?page=photos&n=1" aria-label="Previous"><span
                             aria-hidden="true">«</span></a></li>
-                <li class="page-item"><a class="page-link" href="?page=photos01">1</a></li>
-                <li class="page-item"><a class="page-link" href="?page=photos02">2</a></li>
-                <li class="page-item"><a class="page-link" href="?page=photos03">3</a></li>
-                <li class="page-item"><a class="page-link" href="?page=photos04">4</a></li>
-                <li class="page-item"><a class="page-link" href="?page=photos03" aria-label="Next"><span
+                <li class="page-item"><a class="page-link" href="?page=photos&n=1">1</a></li>
+                <li class="page-item"><a class="page-link" href="?page=photos&n=2">2</a></li>
+                <li class="page-item"><a class="page-link" href="?page=photos&n=3">3</a></li>
+                <li class="page-item"><a class="page-link" href="?page=photos&n=4">4</a></li>
+                <li class="page-item"><a class="page-link" href="?page=photos&n=3" aria-label="Next"><span
                             aria-hidden="true">»</span></a></li>
             </ul>
         </nav>
