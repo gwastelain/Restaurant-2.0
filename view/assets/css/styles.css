@@ -284,3 +284,16 @@ h4 {
 .py-bxl {
   padding-bottom: 20px;
 }
+
+.chatbot {
+  position: fixed;
+  bottom: 3em;
+  right: 1em;
+  z-index: 1;
+}
+
+.chatbotButton {
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+}
