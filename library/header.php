@@ -45,10 +45,11 @@
     </div>
 
     <div class="chatbot">
-        <button class="chatbotButton cross">X</button>
+        <button class="chatbotButtonClose cross">X</button>
         <iframe allow="microphone;" width="350" height="430"
             src="https://console.dialogflow.com/api-client/demo/embedded/4599f5d5-b10b-4ce1-8d40-60674a3e656e">
         </iframe>
     </div>
 
-    <button class="chatbotButton">Une question ?</button>
+
+    <button class="chatbotButtonOpen"></button>

@@ -74,7 +74,7 @@
                                 <div class="card-body">
                                     <h4>Pizza Yolo a besoin de vous !</h4>
                                     <p class="card-text">A la recherche d'un emploi ? Ca tombe bien, <a
-                                            href="contact.html">nous
+                                            href="?page=contact">nous
                                             embauchons </a>!</p>
                                 </div>
                             </div>
