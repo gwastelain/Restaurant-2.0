@@ -38,6 +38,7 @@ https://www.vecteezy.com/vector-art/141791-pizza-pattern-vector
 - pizza8 : https://unsplash.com/photos/HPZs4EXRFSU
 - pizza9 : https://unsplash.com/photos/9xWl_zhIcS4
 - pizza10 : https://unsplash.com/photos/MBnj72Uc-iQ
+- chatbot icon : https://www.flaticon.com/free-icon/pizza_1404894
 
 ### Restaurant :
 

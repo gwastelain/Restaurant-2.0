@@ -304,6 +304,7 @@ h4 {
   font-size: 2rem;
   background-color: transparent;
   border: none;
+  z-index: 1;
 }
 
 .chatbotButtonClose {
