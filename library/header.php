@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Pizza Yolo | <?php echo $title;?></title>
     <meta name="description" content="Page d'accueil de Pizza Yolo. Découvrez nos promotions et nos news" />
-    <link rel="stylesheet" href="view/assets/bootstrap/css/bootstrap.min.css">
+
     <link rel="stylesheet" href="view/assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="view/assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="view/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="view/assets/css/styles.css">
-
     <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="view/assets/img/pizza-slice-solid.ico" />
 
