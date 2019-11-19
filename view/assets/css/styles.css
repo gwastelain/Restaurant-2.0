@@ -4,7 +4,7 @@
   padding: 80px 0;
 }
 
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .contact-clean {
     padding: 20px 0;
   }
@@ -21,7 +21,7 @@
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
 }
 
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .contact-clean form {
     padding: 30px;
   }
@@ -84,7 +84,7 @@
 }
 
 .contact-clean form .btn-primary {
-  background-color: #05B019 !important;
+  background-color: #05b019 !important;
   margin-top: 15px;
   color: #fff;
 }
@@ -94,7 +94,7 @@
   padding: 40px 0;
   background-color: #ffffff;
   color: #4b4c4d;
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
 }
 
 .footer-basic ul {
@@ -126,7 +126,7 @@
   padding-bottom: 25px;
 }
 
-.footer-basic .social>a {
+.footer-basic .social > a {
   font-size: 24px;
   width: 40px;
   height: 40px;
@@ -140,7 +140,7 @@
   opacity: 0.75;
 }
 
-.footer-basic .social>a:hover {
+.footer-basic .social > a:hover {
   opacity: 0.9;
 }
 
@@ -169,7 +169,7 @@
   color: inherit;
 }
 
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .photo-gallery h2 {
     margin-bottom: 25px;
     padding-top: 25px;
@@ -192,29 +192,25 @@
 /*Content*/
 .marque {
   font-size: 8rem;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   color: rgb(202, 9, 9);
   -webkit-text-stroke: 2px;
   -webkit-text-stroke-color: rgb(0, 0, 0);
   display: inline-block;
   padding: 10px;
-  padding-left: 70px;
-  padding-right: 70px;
 }
 
 .slogan {
   font-size: 3rem;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   color: rgb(255, 251, 251);
   display: inline-block;
   padding: 5px;
-
 }
 
 .jumbotron-accueil {
   background-repeat: no-repeat;
   text-align: center;
-
   background-size: cover;
   background-image: url(../img/accueil.jpg);
 }
@@ -252,20 +248,25 @@
 }
 
 .navbar-brand {
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
+  font-size: 3em;
 }
 
 .navbar-nav {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
+  font-weight: bold;
+  text-align: right;
+  line-height: 3rem;
+  padding-top: 20px;
 }
 
 h1 {
-  font-family: 'Open Sans';
+  font-family: "Lobster";
 }
 
 h2 {
   font-weight: normal;
-  font-family: 'Open Sans';
+  font-family: "Lobster";
 }
 
 .h1-pages {
@@ -275,11 +276,11 @@ h2 {
 
 h3 {
   background-color: rgba(0, 0, 0, 0.03);
-  font-family: 'Open Sans';
+  font-family: "Lobster";
 }
 
 h4 {
-  font-family: 'Open Sans';
+  font-family: "Lobster";
 }
 
 .py-bxl {

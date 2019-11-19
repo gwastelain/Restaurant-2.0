@@ -11,7 +11,7 @@
             <li class="list-inline-item"><a href="?page=restaurant">Restaurant</a></li>
             <li class="list-inline-item"><a href="?page=contact">Contact</a></li>
         </ul>
-        <p class="copyright">GregWas © 2019</p>
+        <p class="copyright">GregWas ©2019</p>
     </footer>
 </div>
 <script src="view/assets/js/jquery.min.js"></script>

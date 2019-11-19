@@ -64,7 +64,7 @@
                                 <div class="card-body">
                                     <h4 style="margin-left: 0px;">Fête nationale italienne</h4>
                                     <p class="card-text">Venez fêter l'Italie avec nous, le 2 juin, toutes les pizzas
-                                        sont à -50% !</p>
+                                        sont à -50%!</p>
                                 </div>
                                 <div class="card-body">
                                     <h4>Inauguration de Pizza Yolo Ixelles</h4>
