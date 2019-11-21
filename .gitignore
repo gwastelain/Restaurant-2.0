@@ -3,4 +3,3 @@
 # Don't track content of these folders
 .vscode
 vendor
-credentials.json
