@@ -1,5 +1,5 @@
     <div class="container">
-        <div class="jumbotron jumbotron-accueil">
+        <div class="jumbotron jumbotron-accueil noborder">
             <div>
                 <h1 class="marque">Pizza Yolo</h1>
             </div>

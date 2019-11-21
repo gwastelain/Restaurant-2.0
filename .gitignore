@@ -1,0 +1,9 @@
+# Don't track content of these files
+composer.json
+composer.lock
+credentials.json
+quickstart.json
+
+# Don't track content of these folders
+.vscode
+vendor

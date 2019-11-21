@@ -215,6 +215,10 @@
   background-image: url(../img/accueil.jpg);
 }
 
+.noborder {
+  border-radius: 0% 0% 3px 3px;
+}
+
 .jumbotron-menu {
   background-repeat: no-repeat;
   background-size: cover;
@@ -265,7 +269,7 @@
 }
 
 .nav-link {
-  color: rgba(255, 255, 255, 0.815) !important;
+  color: rgba(255, 245, 245, 0.938) !important;
 }
 
 .nav-link:hover {
@@ -335,4 +339,25 @@ h4 {
   color: white;
   background-color: transparent;
   border: none;
+}
+
+.embedresize {
+
+  max-width: 560px;
+  margin: auto;
+}
+
+.embedresize div {
+
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.embedresize iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
