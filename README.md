@@ -1,9 +1,8 @@
 # Pizza Yolo restaurant project
 
-Projet réalisé par Grégoire Wastelain, septembre 2019 pour BeCode.
+Projet réalisé par Grégoire Wastelain, novembre 2019 pour BeCode.
 Il s'agit de la création d'une page d'une restaurant fictif à l'aide de Bootstrap.
 
-## Lien des [consignes](https://github.com/becodeorg/BXL-Johnson-4.14/blob/master/03-HTML-CSS/bootstrap/restaurant.adoc)
 
 ## Lien du [site](https://gwastelain.github.io/restaurant-css-framework/)
 
