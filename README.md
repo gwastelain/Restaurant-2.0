@@ -21,8 +21,6 @@ V2 : Le restaurant dans sa version 2 est fonctionnel en local, il sera prochaine
 
 ## Source images libres de droits :
 
-### Jumbotron : https://unsplash.com/photos/MQUqbmszGGM
-
 ### Accueil :
 
 Bande : https://unsplash.com/photos/8rEJiVQk1Vw
