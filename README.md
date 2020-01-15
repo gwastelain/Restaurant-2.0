@@ -7,7 +7,7 @@ Il s'agit de la création d'une page d'une restaurant fictif à l'aide de PHP.
 Durée : 5 jours.
 
 ## Versions
-V1 : Lien du repositorie du restaurant dans sa [v1](https://github.com/gwastelain/restaurant-css-framework)
+V1 : Lien du repositorie du restaurant dans sa [v1](https://github.com/gwastelain/restaurant-css-framework)<br>
 V2 : Le restaurant dans sa version 2 est fonctionnel en local, il sera prochainement hébergé en ligne.
 
 ## Techs
