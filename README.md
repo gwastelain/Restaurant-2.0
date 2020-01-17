@@ -8,11 +8,9 @@ Durée : 5 jours.
 
 ## Versions
 
-V1 : Lien du repositorie du restaurant dans sa [v1](https://github.com/gwastelain/restaurant-css-framework){:target="\_blank"}<br>
+V1 : Lien du repositorie du restaurant dans sa [v1](https://github.com/gwastelain/restaurant-css-framework)<br>
 
-V1 : Lien du repositorie du restaurant dans sa <a href="https://github.com/gwastelain/restaurant-css-framework" target="_blank">v1</a>
-
-V2 : Restaurant dans sa [version actuelle](https://pizza-yolo-gw.herokuapp.com/?page=accueil){:target="\_blank"}
+V2 : Restaurant dans sa [version actuelle](https://pizza-yolo-gw.herokuapp.com/?page=accueil)
 
 ## Techs
 
