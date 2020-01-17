@@ -1,13 +1,26 @@
-# Pizza Yolo restaurant project
+# Pizza Yolo restaurant project v2
+
+## A propos
 
 Projet réalisé par Grégoire Wastelain, novembre 2019 pour BeCode.
 Il s'agit de la création d'une page d'une restaurant fictif à l'aide de PHP.
+Durée : 5 jours.
 
-## Lien du [site](https://gwastelain.github.io/restaurant-css-framework/)
+## Versions
+
+V1 : Lien du repositorie du restaurant dans sa [v1](https://github.com/gwastelain/restaurant-css-framework)<br>
+V2 : Restaurant dans sa [version actuelle](https://pizza-yolo-gw.herokuapp.com/?page=accueil)
+
+## Techs
+
+- HTML
+- CSS
+- PHP
+- MVC
+- Docker
+- Dialogflow
 
 ## Source images libres de droits :
-
-### Jumbotron : https://unsplash.com/photos/MQUqbmszGGM
 
 ### Accueil :
 

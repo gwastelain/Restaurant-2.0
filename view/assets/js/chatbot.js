@@ -1,13 +1,8 @@
-function fadeChatbot(speed = 400) {
-  $(".chatbot").fadeToggle(speed);
-}
+const chatbot = document.querySelector(".chatbot");
+const chatbotButton = document.querySelectorAll(".chatbotButton");
 
-$(".chatbotButtonOpen").click(fadeChatbot);
-
-function fadeChatbot(speed = 400) {
-  $(".chatbot").fadeToggle(speed);
-}
-
-fadeChatbot(0);
-
-$(".chatbotButtonClose").click(fadeChatbot);
+chatbotButton.forEach(el => {
+  el.addEventListener("click", () => {
+    chatbot.classList.toggle("hide");
+  });
+});
